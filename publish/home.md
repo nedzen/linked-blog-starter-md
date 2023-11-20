@@ -1,7 +1,9 @@
 ---
-title: "An Extendable Obsidian Publish alternative using Next.JS"
-excerpt: "Create your own template or use someone else's. Changing the template is a matter of updating one line"
+title: An Extendable Obsidian Publish alternative using Next.JS
+excerpt: Create your own template or use someone else's. Changing the template is a matter of updating one line
 ---
+Demo for Jack
+
 Text Now we should have pink outlines everywhere and a different blog title.
 
 If this thing works then the project is sorted out and I can move on to the next step, whatever that is, probably to publish more and pimp my blog exactly as i want. Bim!
