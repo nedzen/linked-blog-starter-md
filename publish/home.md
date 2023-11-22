@@ -18,8 +18,12 @@ Publish your Obsidian Notes with a highly customizable Next.JS blog starter temp
 - Full-text search
 
 ## [[how-linked-blog-starter-works|How it works]]
-![[how-linked-blog-starter-works]]
 
+[aaaaa](www.google.com)
+[[how-linked-blog-starter-works]]
+
+[[how-linked-blog-starter-works]]
+![[how-linked-blog-starter-works.png]]
 ## Getting Started
 ### [[home|Demo]]
 Additionally, you can deploy the example using [Vercel](https://vercel.com/new/git/external?repository-url=https://github.com/matthewwong525/linked-blog-starter&project-name=linked-blog-starter&repository-name=linked-blog-starter) or preview live with [StackBlitz](https://stackblitz.com/github/matthewwong525/linked-blog-starter)
