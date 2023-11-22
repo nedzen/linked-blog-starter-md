@@ -1,6 +1,7 @@
 ---
 title: "Accepted Metadata for Markdown Files"
 ---
+this is a test lorem ipsum 
 
 Here are all the metadata fields accepted by the linked-blog-starter-md template. All fields are optional.
 ```
