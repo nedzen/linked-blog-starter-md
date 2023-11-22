@@ -4,6 +4,9 @@ excerpt: Create your own template or use someone else's. Changing the template i
 ---
 Demo for Jack
 
+
+Then I realized this thing actually works and I stopped worrying about any other fucking thing in the world now I have the shit sorted out. oowwwhooaaa
+
 Text Now we should have pink outlines everywhere and a different blog title.
 
 If this thing works then the project is sorted out and I can move on to the next step, whatever that is, probably to publish more and pimp my blog exactly as i want. Bim!
